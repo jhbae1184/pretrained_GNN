@@ -143,3 +143,24 @@ wandb
 
 # runs
 runs
+
+# train
+train.py
+
+# data
+data
+
+# gcn_lib
+gcn_lib
+
+# Third party open source
+THIRD PARTY OPEN SOURCE SOFTWARE NOTICE.txt
+
+# licnese
+License.txt
+
+# initial
+init
+
+# pyramid_vig
+pyramid_vig.py
